@@ -15,3 +15,6 @@
     "tailwindcss": "^3.4.11"
   }
 }
+"scripts": {
+  "build": "react-scripts build"
+}
