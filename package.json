@@ -13,8 +13,8 @@
     "autoprefixer": "^10.4.20",
     "postcss": "^8.4.45",
     "tailwindcss": "^3.4.11"
+  },
+  "scripts": {
+    "build": "react-scripts build"
   }
-}
-"scripts": {
-  "build": "react-scripts build"
 }
